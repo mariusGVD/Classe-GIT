@@ -1,0 +1,9 @@
+TIPO_ANIMAL: reptil
+nombreMascota: faa
+edadMascota: 2
+numVacunas: 3
+nombreAmo: marius
+dniAmo: x32234234
+telefonoAmo: 63534342
+escamas: serp
+FIN
